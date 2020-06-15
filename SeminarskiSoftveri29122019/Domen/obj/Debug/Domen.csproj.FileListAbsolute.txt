@@ -1,0 +1,47 @@
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\Domen\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\Domen\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\Domen\obj\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\Domen\obj\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Domen\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Domen\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Domen\obj\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Domen\obj\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\bin\Debug\Domen.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\bin\Debug\Domen.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\obj\Debug\Domen.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Domen\obj\Debug\Domen.pdb

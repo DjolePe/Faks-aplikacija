@@ -1,0 +1,507 @@
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Server.exe.config
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\KontrolerPL.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Server.exe.config
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\KontrolerPL.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\KontrolerPL.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Server.exe.config
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Server.exe
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Server.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\KontrolerPL.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\KontrolerPL.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.PokretanjeServera.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Server.exe.config
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Server.exe
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Server.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Domen.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\KontrolerPL.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SistemskeOperacije.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Broker.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Domen.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\KontrolerPL.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\SistemskeOperacije.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\Broker.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.PokretanjeServera.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.Properties.Resources.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.csproj.CopyComplete
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.exe
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Server\obj\Debug\Server.pdb

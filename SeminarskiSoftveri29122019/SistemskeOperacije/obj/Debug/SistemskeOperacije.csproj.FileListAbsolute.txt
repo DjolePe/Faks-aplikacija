@@ -1,0 +1,107 @@
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri23122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\TempDownload\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Broker.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Domen.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Broker.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\bin\Debug\Domen.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

@@ -1,0 +1,85 @@
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CopyComplete
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CopyComplete
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.csproj.CopyComplete
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri\Broker\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri\Broker\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri\Broker\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\Broker\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri\Broker\obj\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri\Broker\obj\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\obj\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Broker\obj\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\bin\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\bin\Debug\Broker.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\bin\Debug\Broker.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\bin\Debug\Broker.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\bin\Debug\Domen.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\bin\Debug\Domen.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.csprojAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.csproj.CopyComplete
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.dll
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Broker\obj\Debug\Broker.pdb

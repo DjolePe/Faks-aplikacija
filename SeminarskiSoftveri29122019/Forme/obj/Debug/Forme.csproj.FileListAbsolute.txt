@@ -1,0 +1,504 @@
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CopyComplete
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+c:\users\korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\FaksFolder\Softveri\Projekat\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\FlashControlV71.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\stdole.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaIzvestaj.resources
+C:\Users\A707465\Desktop\SoftveriKonacno\SeminarskiSoftveri\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\stdole.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaReport.resources
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe.config
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Dapper.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Dapper.xml
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Djordje\Desktop\SeminarskiSoftveri\Forme\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaReport.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzvestajForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.cache
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.compiled
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Dapper.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\FlashControlV71.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\stdole.dll
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\SeminarskiSoftveri\Forme\bin\Debug\Dapper.xml
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Dapper.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\FlashControlV71.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\stdole.dll
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\bin\Debug\Dapper.xml
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaReport.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzvestajForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.cache
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.compiled
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\A707465\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\Users\A707465\OneDrive - Atos\Desktop\Djordje Petrovic Folder\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Dapper.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\FlashControlV71.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\stdole.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\Dapper.xml
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.Form1.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaReport.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.IzvestajForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.Login.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.cache
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\RdlCompile.compiled
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri\Forme\obj\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Dapper.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\FlashControlV71.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\stdole.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\Dapper.xml
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.Form1.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.FormaReport.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.IzvestajForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.Login.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\RdlCompile.cache
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\RdlCompile.compiled
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri23122019\Forme\obj\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Forme.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.Shared.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Dapper.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Domen.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\FlashControlV71.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\ShockwaveFlashObjects.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\stdole.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Domen.pdb
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\Dapper.xml
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.Forme.exe.config
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Form1.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaReport.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.IzmenaClana.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.IzvestajForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Login.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.ProstorForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipoviKurseva.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.UnosClanaForma.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\RdlCompile.cache
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\RdlCompile.compiled
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.exe
+C:\TempDownload\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.pdb
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.ResolveComReference.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.DetaljiKursaForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Form1.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaReport.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaZaIzmenuPosete.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.FormaZaRadSaKursevima.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.IzmenaClana.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.IzvestajForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.KurseviZaPoseteForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Login.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.ManipulacijaSaClanovima.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.PregledImportovanihClanovaForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.PrikazClanovaZaPosete.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.Properties.Resources.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.ProstorForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.RadSaPosetamaForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipKursaZaPoseteForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipoviKurseva.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.TipoviKursevaZaRad.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.UnosClanaForma.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.UnosNovogKursa.resources
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.exe
+D:\DplomskiSoftveri29122019\SeminarskiSoftveri29122019\Forme\obj\Debug\Forme.pdb
